@@ -14,11 +14,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Languages:** JavaScript, TypeScript, HTML, CSS, C/C++
 - **Frontend:** React, Redux, Remix.js
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, Webpack, Babel
+- **Tools:** Git, Github, Docker
 
 ## 🌟 Projects
 
@@ -39,7 +39,7 @@ My personal portfolio website showcasing my projects and skills. Built with Next
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/ranjeetjs22)
+- [LinkedIn](https://www.linkedin.com/in/ranjeetjs/)
 - [Twitter](https://twitter.com/ranjeetjs22)
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project.
