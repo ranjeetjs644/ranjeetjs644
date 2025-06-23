@@ -16,18 +16,7 @@ Welcome to my GitHub profile. I'm a software developer passionate about building
 - **Backend:** Node.js, Express.js
 - **Databases:** MongoDB, MySQL
 - **Tools & Platforms:** Git, GitHub, Docker
-
-## Featured Projects
-
-- [**Awesome Web App**](https://github.com/ranjeetjs22/awesome-web-app)  
-  A feature-rich web application built with React and Node.js.
-
-- [**Cool Library**](https://github.com/ranjeetjs22/cool-library)  
-  A TypeScript-based utility library for working with complex data structures.
-
-- [**Portfolio Website**](https://github.com/ranjeetjs22/portfolio-website)  
-  My personal portfolio showcasing projects and technical skills using Next.js.
-
+  
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ranjeetjs/)
