@@ -28,10 +28,6 @@ Welcome to my GitHub profile. I'm a software developer passionate about building
 - [**Portfolio Website**](https://github.com/ranjeetjs22/portfolio-website)  
   My personal portfolio showcasing projects and technical skills using Next.js.
 
-## GitHub Stats
-
-![Ranjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjeetjs22&show_icons=true&theme=radical)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/ranjeetjs/)
